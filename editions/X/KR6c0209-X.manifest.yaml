@@ -1,0 +1,292 @@
+canonical_identifier: bkk:krp/KR6c0209/X/v1
+canonical_location: https://kanripo.org/bkk/KR6c0209/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 仁王經合疏
+  identifiers:
+    krp: KR6c0209
+    cbeta: X26n0513
+    cbeta_old_id: X26n0513
+    authorityid: CA0002633
+    json_key: X0513
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X26/X26n0513.xml
+    old_id: X26n0513
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0209_000-X.yaml, hash: 'sha256:ebbf6da97f7e407701dd3747fe5c5bd9fb55b9087f9ca88f447fd47cc6c81cd8'}
+  - {seq: 1, filename: KR6c0209_001-X.yaml, hash: 'sha256:57945fc632099cba5e0c4c169c73cbd1f3e793008397279a1a82db439e846a86'}
+  - {seq: 2, filename: KR6c0209_002-X.yaml, hash: 'sha256:7017ee507fd6f6f6c5aa6d927159253c5a788fd793aeb630417cc82d0b818e75'}
+  - {seq: 3, filename: KR6c0209_003-X.yaml, hash: 'sha256:6c5420ee2b7be8d0a72501a2cfd28d4cb73e8fa90167d460a78ea88e4ce8c267'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0209_000-X.markers.yaml, hash: 'sha256:dbc65539c56f0c9fe207fcd8a036d952c9ccdbe37ed5e7608fb5403ae3d946c2'}
+  - {seq: 1, role: markers, filename: assets/KR6c0209_001-X.markers.yaml, hash: 'sha256:e2002ddc4619323b9ca95570d551ebc3946f89e43ce7d6a01bf2c97d4f25999d'}
+  - {seq: 2, role: markers, filename: assets/KR6c0209_002-X.markers.yaml, hash: 'sha256:00c9e1194c3ddebbcc7175d530213bd056f3853212c6afbd1b2c6e7bf22d6686'}
+  - {seq: 3, role: markers, filename: assets/KR6c0209_003-X.markers.yaml, hash: 'sha256:e9e99cb623001ac2430c023fdaaec453d2920a327e0712750b4b73608fcf0e90'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6c0209_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 513-A 鍥仁王般若經合疏敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0209_X_000-mulu-2
+    span:
+    - front
+    - 230
+    - 230
+  label: No. 513-B 合刻仁王護國般若經疏序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0209_X_000-mulu-3
+    span:
+    - front
+    - 610
+    - 610
+  label: No. 513-C 仁王護國般若經疏序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0209_X_000-mulu-4
+    span:
+    - front
+    - 1164
+    - 1164
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0209_X_000-mulu-5
+    span:
+    - front
+    - 1244
+    - 1244
+  label: 凡例
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0209_X_000-mulu-6
+    span:
+    - front
+    - 1773
+    - 1773
+  label: No. 513-D 仁王護國般若波羅蜜經疏科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0209_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 16058
+  label: 佛說仁王護國般若波羅蜜經疏卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0209_X_001-mulu-1
+    span:
+    - body
+    - 30
+    - 30
+  label: 經前玄義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0209_X_001-mulu-2
+    span:
+    - body
+    - 30
+    - 30
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0209_X_001-mulu-3
+    span:
+    - body
+    - 103
+    - 103
+  label: 第一釋名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0209_X_001-mulu-4
+    span:
+    - body
+    - 1902
+    - 1902
+  label: 第二辨體
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0209_X_001-mulu-5
+    span:
+    - body
+    - 2272
+    - 2272
+  label: 第三明宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0209_X_001-mulu-6
+    span:
+    - body
+    - 2458
+    - 2458
+  label: 第四辨用
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0209_X_001-mulu-7
+    span:
+    - body
+    - 2763
+    - 2763
+  label: 第五明教相
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0209_X_001-mulu-8
+    span:
+    - body
+    - 2894
+    - 2894
+  label: 入文解釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0209_X_001-mulu-9
+    span:
+    - body
+    - 2894
+    - 2894
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0209_X_001-mulu-10
+    span:
+    - body
+    - 3054
+    - 3054
+  label: 序品第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6c0209_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 18386
+  label: 佛說仁王護國般若波羅蜜經疏卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6c0209_X_002-mulu-1
+    span:
+    - body
+    - 30
+    - 30
+  label: 觀空品第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6c0209_X_002-mulu-2
+    span:
+    - body
+    - 6739
+    - 6739
+  label: 教化品第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0209_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 21112
+  label: 佛說仁王護國般若波羅蜜經疏卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0209_X_003-mulu-1
+    span:
+    - body
+    - 4298
+    - 4298
+  label: 二諦品第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0209_X_003-mulu-2
+    span:
+    - body
+    - 7209
+    - 7209
+  label: 護國品第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0209_X_003-mulu-3
+    span:
+    - body
+    - 10445
+    - 10445
+  label: 散華品第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0209_X_003-mulu-4
+    span:
+    - body
+    - 11725
+    - 11725
+  label: 受持品第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0209_X_003-mulu-5
+    span:
+    - body
+    - 19265
+    - 19265
+  label: 囑累品第八
+  type: mulu
+  level: 1
+hash: sha256:543082155e6c6fe4c78dc472d240c36b13433c924d4e68b234246cc51c848795
