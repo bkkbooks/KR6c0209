@@ -21,12 +21,12 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0209_000.yaml, hash: 'sha256:f8852430d21a2f1641668ab0741b91e7ce21c3c734692ca7eaefbadb3f6a45d8'}
+  - {seq: 0, filename: KR6c0209_000.yaml, hash: 'sha256:715886f1bd9ecae39c767c03bcc0ddf455e18558d929cb1cb5f06bccca2bd914'}
   - {seq: 1, filename: KR6c0209_001.yaml, hash: 'sha256:f95d03d738e0214d0e4126f4fda01cbe6665dffdec81532c139229691a19b85d'}
   - {seq: 2, filename: KR6c0209_002.yaml, hash: 'sha256:8058b66fc381fb12d8564c5b5edc7f6601d4c6c62fe5c43b0be62e23783e3980'}
   - {seq: 3, filename: KR6c0209_003.yaml, hash: 'sha256:4a43e40a66c3a3ebba9a89244daf07693e0e8780c03979f7eb2c86130490cea3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0209_000.markers.yaml, hash: 'sha256:c2ee7d9c39c4baf5f854c5c11e55317090036ad2ea39ddfd0dbf5b7746094eb3'}
+  - {seq: 0, role: markers, filename: assets/KR6c0209_000.markers.yaml, hash: 'sha256:dac17285aaf83289d6a41746f50ea80f2bfa6dd93f9e9f40c23b0127f2a29077'}
   - {seq: 1, role: markers, filename: assets/KR6c0209_001.markers.yaml, hash: 'sha256:c8b0d986864b49ead8c1d3d94baba4890355ba3dc78c6f74d090d63c2adeb791'}
   - {seq: 2, role: markers, filename: assets/KR6c0209_002.markers.yaml, hash: 'sha256:76bcbf25d0c4df5ff5e26729c5b63a362347688ace649883e903525d3222ffd1'}
   - {seq: 3, role: markers, filename: assets/KR6c0209_003.markers.yaml, hash: 'sha256:22209b0ed096913cb90151bb2a0d631ff6ad5084d43f2171194070a74e9605ec'}
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0209_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 513-A 鍥仁王般若經合疏敘
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0209_X_000-mulu-2
     span:
-    - front
+    - body
     - 230
     - 230
   label: No. 513-B 合刻仁王護國般若經疏序
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0209_X_000-mulu-3
     span:
-    - front
+    - body
     - 610
     - 610
   label: No. 513-C 仁王護國般若經疏序
@@ -65,7 +65,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0209_X_000-mulu-4
     span:
-    - front
+    - body
     - 1164
     - 1164
   label: 目次
@@ -75,7 +75,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0209_X_000-mulu-5
     span:
-    - front
+    - body
     - 1244
     - 1244
   label: 凡例
@@ -85,7 +85,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0209_X_000-mulu-6
     span:
-    - front
+    - body
     - 1773
     - 1773
   label: No. 513-D 仁王護國般若波羅蜜經疏科
@@ -291,7 +291,7 @@ table_of_contents:
   label: 囑累品第八
   type: mulu
   level: 1
-hash: sha256:6d0da0d962cc0c6193f89971a5d12ea4d09a4897aa21fecd8affb45e4108f420
+hash: sha256:fcf0f235a84a302b63c430a0eb3b2159cedab3a215641b7fe7954b9272dd08d2
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
